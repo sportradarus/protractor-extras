@@ -1,0 +1,21 @@
+{
+  "name": "protractor-extras",
+  "version": "0.0.1",
+  "description": "Add some extra functionality to protractor to make writing tests easier.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "protractor",
+    "angular",
+    "angularjs",
+    "node",
+    "e2e"
+  ],
+  "author": "Chris Roth <chris@cjroth.com>",
+  "license": "MIT",
+  "dependencies": {
+    "coffee-script": "^1.9.3"
+  }
+}
